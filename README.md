@@ -1,42 +1,46 @@
-
 # Hi — I’m Samim Reza 👋
 
-A Computer Science & Engineering student, researcher, competitive programmer, and web developer. I build ML projects, embedded systems, and polished portfolio websites. This README is my GitHub profile summary — quick, scannable, and link-forward.
+Computer Science & Engineering undergraduate, researcher, competitive programmer, and robotics & ML practitioner. I build ML systems, embedded robotics, and polished web apps. This repo hosts my portfolio site and project showcase.
 
-🌐 Live portfolio: https://samim-reza.github.io
+🌐 Live portfolio: https://samim-reza.github.io  
+📫 Email: samimreza2111@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samim-reza&layout=compact&theme=github_dark)
 ![Stats](https://github-readme-stats.vercel.app/api?username=samim-reza&show_icons=true&theme=github_dark)
 
-## About me
-- Computer Science & Engineering — Green University of Bangladesh
-- 3× ICPC Regionalist • IDPC‑2024 Champion
-- B.Sc. thesis: DDPM with Edge Detection
-- Research interest: Federated Learning, Human-in-the-Loop ML, Diffusion Models
+## About
+- B.Sc. Computer Science & Engineering — Green University of Bangladesh  
+- Having served as Teaching Assistant, Programming Trainer, and Robotics Engineer Intern  
+- Competitive programming: 3× ICPC Regionalist • 1000+ problems solved  
+- Current research / thesis:
+  - DDPM with Edge Detection (B.Sc. thesis)
+  - Federated Learning — Adaptive Client Selection
+  - Survey: Human-in-the-Loop for Machine Learning
 
 ## Tech & tools
-- Languages: C/C++, Python, Java, JavaScript, PHP
-- ML: PyTorch, TensorFlow, Scikit-learn, LangChain, RAG
-- Web: HTML/CSS, React, Node.js
-- Embedded: ROS, Arduino, ESP32, Raspberry Pi
-- Other: Git, Docker, Linux, LaTeX
+- Languages: C/C++, Python, Java, JavaScript, PHP  
+- ML / Data: PyTorch, TensorFlow, Scikit-learn, LangChain, RAG, Vector DBs  
+- Web: HTML/CSS, React, Node.js, Render, Pinecone  
+- Embedded & Robotics: ROS, Arduino, ESP32, Raspberry Pi, Jetson  
+- Tools: Git, Docker, Linux, LaTeX
 
 ## Projects (highlights)
-- Personal AI Assistant — LangChain + RAG (chatbot with retrieval)
-- Mars Rover — Autonomous navigation with ROS and embedded control
-- Portfolio Website — This repo: modern responsive site deployed on GitHub Pages
+- Personal AI Assistant — LangChain + RAG (deployed; Pinecone backend)  
+- Mars Rover — autonomous navigation, ROS + embedded control  
+- Portfolio Website — this site (GitHub Pages)
 
-For more projects, see my repositories: https://github.com/samim-reza?tab=repositories
+More projects: https://github.com/samim-reza?tab=repositories
 
 ## Achievements
-- 3× ICPC Regionalist (2022, 2023, 2024)
-- IDPC‑2024 Champion
-- Vice Chancellor's Award for Academic Excellence
+- ICPC Regionalist (2022, 2023, 2024)  
+- IDPC‑2024 Champion  
+- Vice Chancellor's Award — academic excellence
 
-## Contact
+## Quick links
+- Portfolio: https://samim-reza.github.io  
+- GitHub: https://github.com/samim-reza  
+- LinkedIn: https://linkedin.com/in/samim-reza  
 - Email: samimreza2111@gmail.com
-- LinkedIn: https://linkedin.com/in/samim-reza
-- Website: https://samim-reza.github.io
 
-
+---
 Last updated: 2025-10-04
