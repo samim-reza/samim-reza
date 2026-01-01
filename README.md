@@ -3,38 +3,55 @@
 Computer Science & Engineering undergraduate, researcher, competitive programmer, and robotics & ML practitioner. I build ML systems, embedded robotics, and polished web apps. This repo hosts my portfolio site and project showcase.
 
 🌐 Live portfolio: https://samim-reza.github.io  
-📫 Email: samimreza2111@gmail.com
+� Email: samimreza2111@gmail.com  
+📱 Phone: +8801747773315
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samim-reza&layout=compact&theme=github_dark)
 ![Stats](https://github-readme-stats.vercel.app/api?username=samim-reza&show_icons=true&theme=github_dark)
 
 ## About
-- B.Sc. Computer Science & Engineering — Green University of Bangladesh  
-- Having served as Teaching Assistant, Programming Trainer, and Robotics Engineer Intern  
-- Competitive programming: 3× ICPC Regionalist • 1000+ problems solved  
+- B.Sc. Computer Science & Engineering — Green University of Bangladesh (CGPA: 3.80/4.00)  
+- Robotics Engineer Intern, Teaching Assistant, Programming Trainer & Mentor
+- Competitive programming: 3× ICPC Regionalist • IDPC-2024 Champion • 1000+ problems solved  
 - Current research / thesis:
-  - DDPM with Edge Detection (B.Sc. thesis)
-  - Federated Learning — Adaptive Client Selection
+  - DDPM with Edge Detection — Integrating edge detection for enhanced image generation
+  - Federated Learning — Adaptive client selection algorithms for optimal convergence
   - Survey: Human-in-the-Loop for Machine Learning
 
+## Experience
+- **Robotics Engineer Intern** @ RoboTech Valley (Jul-Sept 2025) — Designing robotics modules using embedded systems and ROS for autonomous navigation
+- **Teaching Assistant** @ Green University of Bangladesh (May-Aug 2025) — Conducting demo classes on C Programming and Data Structures, evaluating exam scripts
+- **Programming Trainer** @ Green University of Bangladesh (Jan-Dec 2025) — Training students for competitive programming with weekly sessions
+- **Mentor** @ University Mentorship Program (Jun 2023-Aug 2025) — Mentored first-year students in programming fundamentals and professional tools
+
 ## Tech & tools
-- Languages: C/C++, Python, Java, JavaScript, PHP  
-- ML / Data: PyTorch, TensorFlow, Scikit-learn, LangChain, RAG, Vector DBs  
-- Web: HTML/CSS, React, Node.js, Render, Pinecone  
-- Embedded & Robotics: ROS, Arduino, ESP32, Raspberry Pi, Jetson  
-- Tools: Git, Docker, Linux, LaTeX
+- **Languages:** C/C++, Python, Java, JavaScript, PHP  
+- **AI/ML:** PyTorch, TensorFlow, Scikit-learn, LangChain, VectorDB, RAG, LLM, Roboflow  
+- **Data Science:** Kaggle Competitions, Machine Learning, Data Analysis  
+- **Web:** HTML/CSS, React, Node.js, PHP, MySQL  
+- **Embedded & Robotics:** ROS, Arduino, ESP32, Raspberry Pi, Jetson  
+- **Tools & Platforms:** Git, Docker, Linux, LaTeX, Azure, PWA
 
 ## Projects (highlights)
-- Personal AI Assistant — LangChain + RAG (deployed; Pinecone backend)  
-- Mars Rover — autonomous navigation, ROS + embedded control  
-- Portfolio Website — this site (GitHub Pages)
+- **Personal AI Assistant** — LLM-powered chatbot with RAG implementation ([Live](https://samim-chatbot-app.azurewebsites.net/) | [Code](https://github.com/samim-reza/MyChatBot))  
+- **WeCare Medical Service App** — Offline-first PWA for rural healthcare with AI triage using FastAPI, Ollama/Qwen3-VL, PWA, MySQL ([Code](https://github.com/samim-reza/FutureBuilders2025_GreenU_Tensors))  
+- **Cirrhosis Outcome Prediction** — Ensemble ML classifier (XGBoost, LightGBM, CatBoost) for BAIC 2025; 55 engineered features, 14.5% accuracy gain  
+- **Mars Rover** — ROS-based autonomous navigation system ([Code](https://github.com/samim-reza/Rover-robot))  
+- **Animal Introductory System** — Java GUI application with MySQL database ([Code](https://github.com/samim-reza/Animal_Introductory))  
+- **Portal Extended** — Full-stack web portal (JavaScript/PHP/MySQL) ([Code](https://github.com/samim-reza/portal_extended))  
+- **Portfolio Website** — This site (GitHub Pages)
 
 More projects: https://github.com/samim-reza?tab=repositories
 
 ## Achievements
-- ICPC Regionalist (2022, 2023, 2024)  
-- IDPC‑2024 Champion  
-- Vice Chancellor's Award — academic excellence
+- **Vice Chancellor's & DEAN's Award** — Academic Excellence  
+- **Champion** — Inter Dept Programming Contest 2024 (IDPC-2024)  
+- **ICPC Regionalist** — 2022, 2023, 2024  
+- **8th Position** — BUBT Artificial Intelligence Conquest (Kaggle)  
+- **Medalist** — National IT Quiz Competition  
+- **Problem Setter** — Junior Programming Contests  
+- **Kaggle Competitor** — Active in ML competitions  
+- **1000+ Problems** solved across online judges
 
 ## Quick links
 - Portfolio: https://samim-reza.github.io  
@@ -43,4 +60,4 @@ More projects: https://github.com/samim-reza?tab=repositories
 - Email: samimreza2111@gmail.com
 
 ---
-Last updated: 2025-10-04
+Last updated: January 2026
