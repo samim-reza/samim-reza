@@ -6,8 +6,10 @@ Computer Science & Engineering undergraduate, researcher, competitive programmer
 � Email: samimreza2111@gmail.com  
 📱 Phone: +8801747773315
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samim-reza&layout=compact&theme=github_dark)
-![Stats](https://github-readme-stats.vercel.app/api?username=samim-reza&show_icons=true&theme=github_dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samim-reza&theme=dark)](https://github.com/samim-reza)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samim-reza&layout=compact&theme=dark&hide_border=true)](https://github.com/samim-reza)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samim-reza&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/samim-reza)
 
 ## About
 - B.Sc. Computer Science & Engineering — Green University of Bangladesh (CGPA: 3.80/4.00)  
@@ -33,6 +35,7 @@ Computer Science & Engineering undergraduate, researcher, competitive programmer
 - **Tools & Platforms:** Git, Docker, Linux, LaTeX, Azure, PWA
 
 ## Projects (highlights)
+- **KobitaLM — Bengali Poetry Generator** — Fine-tuned Gemma 2 9B model with LoRA & RAG for generating Bengali poetry in styles of classical poets like Rabindranath Tagore, Jibanananda Das, and more ([Model](https://huggingface.co/samim-reza/KobitaLM) | [Code](https://github.com/samim-reza/KobitaLM))  
 - **Personal AI Assistant** — LLM-powered chatbot with RAG implementation ([Live](https://samim-chatbot-app.azurewebsites.net/) | [Code](https://github.com/samim-reza/MyChatBot))  
 - **WeCare Medical Service App** — Offline-first PWA for rural healthcare with AI triage using FastAPI, Ollama/Qwen3-VL, PWA, MySQL ([Code](https://github.com/samim-reza/FutureBuilders2025_GreenU_Tensors))  
 - **Cirrhosis Outcome Prediction** — Ensemble ML classifier (XGBoost, LightGBM, CatBoost) for BAIC 2025; 55 engineered features, 14.5% accuracy gain  
