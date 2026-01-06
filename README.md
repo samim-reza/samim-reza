@@ -6,10 +6,8 @@ Computer Science & Engineering undergraduate, researcher, competitive programmer
 � Email: samimreza2111@gmail.com  
 📱 Phone: +8801747773315
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samim-reza&theme=dark)](https://github.com/samim-reza)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samim-reza&layout=compact&theme=dark&hide_border=true)](https://github.com/samim-reza)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samim-reza&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/samim-reza)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samim-reza&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/samim-reza)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samim-reza&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/samim-reza)
 
 ## About
 - B.Sc. Computer Science & Engineering — Green University of Bangladesh (CGPA: 3.80/4.00)  
