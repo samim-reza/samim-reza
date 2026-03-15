@@ -13,10 +13,10 @@ Computer Science & Engineering undergraduate, researcher, competitive programmer
 - B.Sc. Computer Science & Engineering — Green University of Bangladesh (CGPA: 3.80/4.00)  
 - Robotics Engineer Intern, Teaching Assistant, Programming Trainer & Mentor
 - Competitive programming: 3× ICPC Regionalist • IDPC-2024 Champion • 1000+ problems solved  
-- Current research / thesis:
-  - DDPM with Edge Detection — Integrating edge detection for enhanced image generation
+- Current research (two submitted):
+  - Denoising Diffusion Probabilistic Models (DDPM) — Integrating edge detection for enhanced image generation
   - Federated Learning — Adaptive client selection algorithms for optimal convergence
-  - Survey: Human-in-the-Loop for Machine Learning
+  - Human-in-the-Loop ML — Survey on HITL approaches in modern ML systems
 
 ## Experience
 - **Robotics Engineer Intern** @ RoboTech Valley (Jul-Sept 2025) — Designing robotics modules using embedded systems and ROS for autonomous navigation
@@ -27,15 +27,15 @@ Computer Science & Engineering undergraduate, researcher, competitive programmer
 ## Tech & tools
 - **Languages:** C/C++, Python, Java, JavaScript, PHP  
 - **AI/ML:** PyTorch, TensorFlow, Scikit-learn, LangChain, VectorDB, RAG, LLM, Roboflow  
-- **Data Science:** Kaggle Competitions, Machine Learning, Data Analysis  
-- **Web:** HTML/CSS, React, Node.js, PHP, MySQL  
+- **Web & Data:** Django, FastAPI, PostgreSQL, MySQL, HTML/CSS, React, Node.js, PHP, Kaggle, Machine Learning, Data Analysis  
 - **Embedded & Robotics:** ROS, Arduino, ESP32, Raspberry Pi, Jetson  
-- **Tools & Platforms:** Git, Docker, Linux, LaTeX, Azure, PWA
+- **Tools & Platforms:** Git, Docker, Linux, LaTeX, Azure, PWA, Render
 
 ## Projects (highlights)
 - **KobitaLM — Bengali Poetry Generator** — Fine-tuned Gemma 2 9B model with LoRA & RAG for generating Bengali poetry in styles of classical poets like Rabindranath Tagore, Jibanananda Das, and more ([Model](https://huggingface.co/samim-reza/KobitaLM) | [Code](https://github.com/samim-reza/KobitaLM))  
 - **Personal AI Assistant** — LLM-powered chatbot with RAG implementation ([Live](https://samim-chatbot-app.azurewebsites.net/) | [Code](https://github.com/samim-reza/MyChatBot))  
 - **WeCare Medical Service App** — Offline-first PWA for rural healthcare with AI triage using FastAPI, Ollama/Qwen3-VL, PWA, MySQL ([Code](https://github.com/samim-reza/FutureBuilders2025_GreenU_Tensors))  
+- **Union Ledger** — Collaborative financial tracker with consensus-based voting using Django, PostgreSQL, Render ([Live](https://samim-reza.github.io/union) | [Code](https://github.com/samim-reza/union))  
 - **Cirrhosis Outcome Prediction** — Ensemble ML classifier (XGBoost, LightGBM, CatBoost) for BAIC 2025; 55 engineered features, 14.5% accuracy gain  
 - **Mars Rover** — ROS-based autonomous navigation system ([Code](https://github.com/samim-reza/Rover-robot))  
 - **Animal Introductory System** — Java GUI application with MySQL database ([Code](https://github.com/samim-reza/Animal_Introductory))  
